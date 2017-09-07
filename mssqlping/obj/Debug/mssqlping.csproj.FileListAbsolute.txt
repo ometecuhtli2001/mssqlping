@@ -1,0 +1,6 @@
+c:\users\smiller\documents\visual studio 2015\Projects\mssqlping\mssqlping\bin\Debug\mssqlping.exe.config
+c:\users\smiller\documents\visual studio 2015\Projects\mssqlping\mssqlping\bin\Debug\mssqlping.exe
+c:\users\smiller\documents\visual studio 2015\Projects\mssqlping\mssqlping\bin\Debug\mssqlping.pdb
+c:\users\smiller\documents\visual studio 2015\Projects\mssqlping\mssqlping\obj\Debug\mssqlping.csprojResolveAssemblyReference.cache
+c:\users\smiller\documents\visual studio 2015\Projects\mssqlping\mssqlping\obj\Debug\mssqlping.exe
+c:\users\smiller\documents\visual studio 2015\Projects\mssqlping\mssqlping\obj\Debug\mssqlping.pdb
